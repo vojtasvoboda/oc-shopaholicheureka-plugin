@@ -1,0 +1,20 @@
+{
+    "name": "vojtasvoboda/shopaholicheureka-plugin",
+    "description": "Shopaholic Heuréka.cz/sk connector plugin for OctoberCMS",
+    "type": "october-plugin",
+    "keywords": ["october", "shopaholic", "heureka"],
+    "require": {
+        "php": ">=7.0.8",
+        "ext-json": "*",
+        "composer/installers": "^1.10",
+        "heureka/overeno-zakazniky": "^3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vojta Svoboda",
+            "email": "vojtasvoboda.cz@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

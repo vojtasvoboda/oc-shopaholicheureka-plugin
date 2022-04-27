@@ -1,0 +1,5 @@
+plugin:
+    name: 'Shopaholic Heuréka'
+    description: 'Shopaholic Heuréka.cz/sk connector'
+    author: 'Vojta Svoboda'
+    icon: icon-search-plus

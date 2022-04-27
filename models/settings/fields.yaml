@@ -1,0 +1,11 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+    secret_key_cz:
+        label: Secret Key CZ
+        comment: 'Najdete v Heuréka.cz > Ověřeno Zákazníky > Tajný klíč (32 znaků)'
+    secret_key_sk:
+        label: Secret Key SK
+        comment: 'Najdete v Heuréka.sk > Ověřeno Zákazníky > Tajný klíč (32 znaků)'
